@@ -30,5 +30,5 @@ python password_checker.py
 - Strong
 
 ## Author
-Manpreet Kaur, 
+Manpreet Kaur<br> 
 Cyber Security Intern @ Prodigy InfoTech
