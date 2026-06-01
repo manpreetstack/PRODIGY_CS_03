@@ -24,6 +24,7 @@ This project is a Python-based password strength checker that evaluates password
 ```bash
 python password_checker.py
 ```
+
 ## Password Strength Levels
 - Weak
 - Medium
